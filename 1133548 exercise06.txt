@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Student Table</title>
+  <style>
+    table {
+      border-collapse: collapse; /* collapse into one border */
+      width: 50%;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 5px; /* th, td padding 5px */
+      text-align: left; /* align text to left */
+    }
+  </style>
+</head>
+<body>
+
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Student ID</th>
+    </tr>
+    <tr>
+      <td>Simelane Nelile</td>
+      <td>1133548</td>
+    </tr>
+  </table>
+
+</body>
+</html>
